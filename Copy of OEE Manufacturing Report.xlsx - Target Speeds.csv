@@ -1,0 +1,73 @@
+Machine,Product,TARGET_Biscuits_per_hour
+Biscuit Filling Machine ,Jammy Creams,51840
+Biscuit Boxing Machine ,Jammy Creams,51840
+Biscuit Topping Machine ,Jammy Creams,51840
+Biscuit Forming Machine ,Jammy Creams,51840
+Biscuit Forming Machine ,Custard Creams,51840
+Biscuit Boxing Machine ,Custard Creams,51840
+Biscuit Filling Machine ,Custard Creams,51840
+Biscuit Forming Machine ,Bourbon Creams,51840
+Biscuit Heating Machine ,Bourbon Creams,51840
+Biscuit Boxing Machine ,Bourbon Creams,51840
+Biscuit Filling Machine ,Bourbon Creams,51840
+Biscuit Topping Machine ,Bourbon Creams,51840
+Biscuit Filling Machine ,Milk Cookies,51840
+Biscuit Forming Machine ,Milk Cookies,43200
+Biscuit Boxing Machine ,Milk Cookies,43200
+Biscuit Forming Machine ,Chocolate cookies,43200
+Biscuit Boxing Machine ,Chocolate cookies,43200
+Biscuit Filling Machine ,Chocolate cookies,43200
+Biscuit Topping Machine ,Chocolate cookies,43200
+Biscuit Forming Machine ,Pink Wafers,51840
+Biscuit Boxing Machine ,Pink Wafers,51840
+Biscuit Filling Machine ,Pink Wafers,51840
+Biscuit Topping Machine ,Custard Creams,51840
+Biscuit Heating Machine ,Custard Creams,51840
+Biscuit Mixing Machine ,Bourbon Creams,51840
+Biscuit Heating Machine ,Chocolate cookies,51840
+Biscuit Mixing Machine ,Milk Cookies,51840
+Biscuit Mixing Machine ,Chocolate cookies,51840
+Biscuit Mixing Machine ,Jammy Creams,43200
+Biscuit Heating Machine ,Jammy Creams,43200
+Biscuit Mixing Machine ,Custard Creams,43200
+Packaging Heat Machine ,Bourbon Creams,51840
+Packaging Heat Machine ,Milk Cookies,51840
+Biscuit Sprinkling Machine ,Hazelnut Wafers,51840
+Biscuit Jam Machine ,Fruit and Nut,51840
+Biscuit Pressing Machine ,Fruit and Nut,51840
+Biscuit Pressing Machine ,Hazelnut Wafers,51840
+Biscuit Jam Machine ,Hazelnut Wafers,51840
+Biscuit Jam Machine ,Orange Creams,51840
+Biscuit Pressing Machine ,Orange Creams,51840
+Biscuit Sprinkling Machine ,Orange Creams,51840
+Biscuit Pressing Machine ,Digestives,51840
+Biscuit Sprinkling Machine ,Digestives,51840
+Biscuit Jam Machine ,Digestives,43200
+Packaging Heat Machine ,Custard Creams,43200
+Biscuit Sprinkling Machine ,Chocolate Digestives,43200
+Biscuit Pressing Machine ,Chocolate Digestives,43200
+Biscuit Jam Machine ,Chocolate Digestives,43200
+Biscuit Sprinkling Machine ,Deluxe Cookies,43200
+Packaging Heat Machine ,Jammy Creams,51840
+Biscuit Pressing Machine ,Deluxe Cookies,51840
+Biscuit Jam Machine ,Deluxe Cookies,43200
+Biscuit Sprinkling Machine ,Peanut Cookies,43200
+Biscuit Pressing Machine ,Peanut Cookies,43200
+Biscuit Jam Machine ,Peanut Cookies,43200
+Biscuit Pressing Machine ,Almond Biscotti,43200
+Biscuit Jam Machine ,Almond Biscotti,43200
+Biscuit Sprinkling Machine ,Almond Biscotti,43200
+Packaging Heat Machine ,Chocolate cookies,43200
+Biscuit Pressing Machine ,Party Rings,43200
+Biscuit Jam Machine ,Party Rings,43200
+Biscuit Sprinkling Machine ,Party Rings,43200
+Biscuit Pressing Machine ,Caramel Swirls,43200
+Biscuit Sprinkling Machine ,Caramel Swirls,43200
+Biscuit Jam Machine ,Caramel Swirls,43200
+Biscuit Sprinkling Machine ,Vienesse Creams,43200
+Biscuit Pressing Machine ,Vienesse Creams,43200
+Biscuit Jam Machine ,Vienesse Creams,43200
+Biscuit Sprinkling Machine ,Coco Rings,43200
+Biscuit Pressing Machine ,Coco Rings,43200
+Biscuit Jam Machine ,Coco Rings,51840
+Biscuit Sprinkling Machine ,Fruit and Nut,51840
